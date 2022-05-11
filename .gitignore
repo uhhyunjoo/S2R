@@ -14,8 +14,11 @@ logs
 summary*
 run*
 # Added acoording to https://github.com/wandb/examples/blob/master/.gitignore
-*.tar
+
 # Added on my own
+*.tar
+*.md
+*.env
 
 ### Linux ###
 *~
